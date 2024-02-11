@@ -149,3 +149,20 @@ Selected multilib: .;@m64
     ```
     - argument usage like AFL: https://github.com/google/AFL
     - `-p`: connect Meanshift
+ 
+### Result
+| Target | CVE ID |
+| -------- | ------- |
+| bingrep | CVE-2021-39480 |
+| libsixel | CVE-2021-46700 |
+| libtiff | CVE-2022-2867 |
+| libtiff | CVE-2022-2868 |
+| libtiff | CVE-2022-2869  |
+|libtiff|CVE-2022-1354|
+|libtiff|CVE-2022-1355|
+|fribidi|CVE-2022-25308|
+|fribidi|CVE-2022-25308|
+|fribidi|CVE-2022-25308|
+|jbig2dec|CVE-2023-46361|
+|mupdf|CVE-2021-4216|
+|Bento4|CVE-2022-29017|
